@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PDS</string>
+    <string name="title_activity_tab_1">Messenger</string>
+    <string name="title_activity_tab_2">File Sharing</string>
+    <string name="text3">This page dis
+    <string name="title_activity_start_service">StartService</string>plays list of files</string>
+    <string name="edit1">Enter your message here</string>
+    <string name="btn1">Send Data</string>
+    <string name="FileSelector">File Selector</string>
+    <string name="btn3">Request Data</string>
+
+
+</resources>
